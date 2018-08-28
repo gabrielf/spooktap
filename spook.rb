@@ -43,12 +43,12 @@ class Spook < Formula
 <plist version="1.0">
   <dict>
     <key>Label</key>
-    <string>limit.maxfiles</string>
+    <string>limit.maxproc</string>
     <key>ProgramArguments</key>
     <array>
       <string>launchctl</string>
       <string>limit</string>
-      <string>maxfiles</string>
+      <string>maxproc</string>
       <string>524288</string>
       <string>524288</string>
     </array>
