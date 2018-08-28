@@ -49,8 +49,8 @@ class Spook < Formula
       <string>launchctl</string>
       <string>limit</string>
       <string>maxproc</string>
-      <string>524288</string>
-      <string>524288</string>
+      <string>2048</string>
+      <string>2048</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
