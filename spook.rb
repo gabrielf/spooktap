@@ -29,7 +29,7 @@ class Spook < Formula
       <string>launchctl</string>
       <string>limit</string>
       <string>maxfiles</string>
-      <string>524288</string>
+      <string>64000</string>
       <string>524288</string>
     </array>
     <key>RunAtLoad</key>
